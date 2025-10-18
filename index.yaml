@@ -3,6 +3,16 @@ entries:
   example:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-10-18T01:28:25.931988972Z"
+    description: A Helm chart for Kubernetes
+    digest: 9a634e0a8d32498b72cef10e3b19138bea627dc87d170576b30aefc2ab73ab17
+    name: example
+    type: application
+    urls:
+    - https://github.com/HauptJ/helm-charts/releases/download/example-0.2.2/example-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-10-17T19:30:38.489767296-05:00"
     description: A Helm chart for Kubernetes
     digest: 9ba7aa7433472250ebbe75828eecee5f8956f3b97544676b53d618ca441d839b
@@ -14,6 +24,16 @@ entries:
   example1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-10-18T01:28:26.043416336Z"
+    description: A Helm chart for Kubernetes
+    digest: 2b2ea63faf89f54281ffd62efb05b112a0bff3f84f3b8950e7c0ae391d1fceca
+    name: example1
+    type: application
+    urls:
+    - https://github.com/HauptJ/helm-charts/releases/download/example1-0.2.2/example1-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-10-17T19:30:38.592556775-05:00"
     description: A Helm chart for Kubernetes
     digest: 249967ea5d11dee9cceacddf35e57dee66936fa609a062aa467df8b842ab4ad7
@@ -22,4 +42,4 @@ entries:
     urls:
     - https://github.com/HauptJ/helm-charts/releases/download/example1-0.1.0/example1-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-17T19:30:38.592585574-05:00"
+generated: "2025-10-18T01:28:26.043427337Z"
