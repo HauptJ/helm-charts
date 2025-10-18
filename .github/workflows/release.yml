@@ -11,7 +11,7 @@ jobs:
   publish:
     permissions:
       pages: write
-      context: write
+      contents: write
         
     runs-on: ubuntu-latest
 
