@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-17T19:30:38.489767296-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 9ba7aa7433472250ebbe75828eecee5f8956f3b97544676b53d618ca441d839b
+    name: example
+    type: application
+    urls:
+    - https://github.com/HauptJ/helm-charts/releases/download/example-0.1.0/example-0.1.0.tgz
+    version: 0.1.0
+  example1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-17T19:30:38.592556775-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 249967ea5d11dee9cceacddf35e57dee66936fa609a062aa467df8b842ab4ad7
+    name: example1
+    type: application
+    urls:
+    - https://github.com/HauptJ/helm-charts/releases/download/example1-0.1.0/example1-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-17T19:30:38.592585574-05:00"
