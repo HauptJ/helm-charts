@@ -42,4 +42,15 @@ entries:
     urls:
     - https://github.com/HauptJ/helm-charts/releases/download/example1-0.1.0/example1-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-18T01:28:26.043427337Z"
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-20T23:57:49.161646403Z"
+    description: A Helm chart for Kubernetes
+    digest: d6ea9100d0b85629bdee7d6c6a1489d101afdb07baf434c43551e9b97fc14bde
+    name: mychart
+    type: application
+    urls:
+    - https://github.com/HauptJ/helm-charts/releases/download/mychart-0.1.0/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-20T23:57:49.161662836Z"
